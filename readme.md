@@ -1,6 +1,22 @@
+
+Main Website:
+https://www.elevatingconnections.org/
+
+Payment Portal website:
+https://admin.harnessapp.com/admin-login.html
+
+The main website is hosted on squarespace.com
+https://account.squarespace.com/
+
+Project deadline goal:
+August 31, may be extended to September 30th if needed.
+
+_________________________________________________________________
+** What is the database project? What does it need to do?
+
 Port data from several desktop computer hard drives (seed data based on data gathered through various application/registration forms) to new database. See forms Elevating Connections is using on database-assets channel.
 
-Sort and search for data (
+Sort and search for data:
 *campers
 *sibling information of campers
 *placement/foster home contacts 
